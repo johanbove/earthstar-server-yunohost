@@ -1,9 +1,10 @@
 # Earthstar Server for Yunohost
 
-This template will help you deploy an Earthstar server on a Yunohost server as an installable application. The server
-will run on the Deno runtime.
+This template will help you deploy an Earthstar server on a Yunohost server as
+an installable application. The server will run on the Deno runtime.
 
-Read [the Yunohost documentation](https://yunohost.org/en/packaging_manifest) on how this application package was created.
+Read [the Yunohost documentation](https://yunohost.org/en/packaging_manifest) on
+how this application package was created.
 
 If you'd like to further customise your server, you can learn more about servers
 and their extensions at the
@@ -23,5 +24,6 @@ Deno installed to do it
 You can do that by running the following:
 
 ```
-deno task server
+npm install
+npm start
 ```

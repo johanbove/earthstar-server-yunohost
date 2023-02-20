@@ -1,2 +1,4 @@
 known_shares.json
 data/
+.data/
+node_modules
